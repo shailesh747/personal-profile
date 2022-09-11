@@ -19,7 +19,7 @@
 	--ff-sans-cond: 'Barlow Condensed', sans-serif;
 }
 
-@media (min-width: 25em) {
+@media (min-width: 30em) {
 	:root {
 		--fs-700: 3rem;
 		--fs-600: 2.125rem;
@@ -188,7 +188,7 @@ header {
 	color: hsl(var(--clr-white)/1);
 }
 
-@media (min-width: 25em) {
+@media (min-width: 30em) {
 	.nav-logo {
 		width: 35px;
 	}
@@ -274,7 +274,7 @@ header {
 	background-image: radial-gradient(hsl(var(--clr-black)/1), hsl(var(--clr-black)/0) 70%);
 }
 
-@media (min-width: 25em) {
+@media (min-width: 30em) {
 	.name-first {
 		top: 20%;
 		left: 20%;
@@ -357,7 +357,7 @@ footer {
 	transform: scale(1.07);
 }
 
-@media (min-width: 25em) {
+@media (min-width: 30em) {
 	footer {
 		justify-content: flex-end;
 	}
@@ -381,7 +381,7 @@ body {
 	background-image: url(../assets/home-bg-m.png);
 }
 
-@media (min-width: 25em) {
+@media (min-width: 30em) {
 	.home {
 		background-image: url(../assets/home-bg-t.png);
 	}
